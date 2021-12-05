@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638706652 source:c:\users\marcu\desktop\meus arqui\fatec 2 semestre\programação\lpfinal\problema_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
